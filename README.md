@@ -57,19 +57,6 @@ Currently exploring and working with modern DevOps & Cloud technologies while sh
 
 ---
 
-
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikhil22690&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil22690&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 # 🙏 Thanks for Visiting My Profile!
 
 Always learning, building, and improving every day 🚀
